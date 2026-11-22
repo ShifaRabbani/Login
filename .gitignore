@@ -1,0 +1,12 @@
+# Secrets: never upload
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.venv/
+
+# React
+node_modules/
+dist/
